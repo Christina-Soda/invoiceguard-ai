@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+*.conda
+
+# Data
+data/raw/
+data/images/
+data/synthetic/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+
+# Model checkpoints
+checkpoints/
+model_cache/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Logs
+logs/
+mlruns/
+wandb/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+*.log
