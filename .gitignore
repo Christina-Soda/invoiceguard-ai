@@ -11,6 +11,7 @@ __pycache__/
 venv/
 env/
 *.conda
+conda_envs/
 
 # Data
 data/raw/
@@ -44,3 +45,5 @@ wandb/
 # Temporary files
 tmp/
 *.log
+
+.postgres_conda/
