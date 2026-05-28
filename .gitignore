@@ -17,10 +17,18 @@ conda_envs/
 data/raw/
 data/images/
 data/synthetic/
+data/unified/
+data/splits/
 *.pdf
 *.jpg
 *.jpeg
 *.png
+
+# Large generated evaluation artifacts
+evaluation/**/images/
+evaluation/**/ground_truth/
+evaluation/**/model_outputs/
+
 
 # Model checkpoints
 checkpoints/
