@@ -51,6 +51,7 @@ invoiceguard-ai/
 │   ├── baseline/
 │   ├── comparison/
 │   ├── evaluation/
+│   ├── examples/
 │   └── review/
 └── reports/
     ├── baseline_v1_report.md
