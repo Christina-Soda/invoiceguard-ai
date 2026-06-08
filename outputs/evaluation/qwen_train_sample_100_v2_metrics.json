@@ -1,0 +1,30 @@
+{
+  "total_records": 100,
+  "vendor_fuzzy_threshold": 0.85,
+  "parse_success_count": 100,
+  "parse_success_rate": 1.0,
+  "vendor_exact_accuracy": 0.8,
+  "vendor_normalized_accuracy": 0.94,
+  "vendor_fuzzy_accuracy": 0.97,
+  "vendor_fuzzy_only_match_count": 3,
+  "date_exact_accuracy": 0.91,
+  "date_normalized_accuracy": 0.99,
+  "total_exact_accuracy": 0.92,
+  "total_normalized_accuracy": 0.98,
+  "all_key_fields_exact_accuracy": 0.71,
+  "all_key_fields_normalized_accuracy": 0.91,
+  "all_key_fields_fuzzy_accuracy": 0.94,
+  "total_format_only_mismatch_count": 6,
+  "error_type_counts": {
+    "document_quality_issue": 10,
+    "total_format_only_mismatch": 6,
+    "vendor_fuzzy_only_match": 3,
+    "vendor_mismatch": 3,
+    "total_mismatch": 2,
+    "date_mismatch": 1
+  },
+  "decision_counts": {},
+  "approve_count": 0,
+  "need_human_review_count": 0,
+  "reject_count": 0
+}

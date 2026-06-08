@@ -1,0 +1,14 @@
+{
+  "total_records": 100,
+  "parse_success_count": 99,
+  "parse_success_rate": 0.99,
+  "vendor_exact_accuracy": 0.8,
+  "vendor_normalized_accuracy": 0.93,
+  "date_exact_accuracy": 0.9,
+  "date_normalized_accuracy": 0.98,
+  "total_exact_accuracy": 0.92,
+  "total_normalized_accuracy": 0.98,
+  "all_key_fields_exact_accuracy": 0.71,
+  "all_key_fields_normalized_accuracy": 0.91,
+  "total_format_only_mismatch_count": 6
+}
